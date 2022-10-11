@@ -1,0 +1,29 @@
+
+.box{
+    height: 100px;
+    width: 100px;
+    border-top: 1px solid #687291;
+    margin: 5px;
+    font-size: 40px;
+    font-family: Tahoma;
+    text-align: center;
+}
+
+#A.box, #C.box, #E.box{
+    background-color: #dfe1e7;
+}
+
+#B.box, #D.box{
+    background-color: #eeeff2;
+}
+
+#F.box{
+    background-color: #687291;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(0,0,0);
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100px; 
+}
+
