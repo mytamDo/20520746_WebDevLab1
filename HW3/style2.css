@@ -1,0 +1,20 @@
+.flex_box_ver{
+    display:flex;
+    flex-direction: column;
+}
+
+.flex_box_ver > p {
+    width: 1024px;
+    margin: 10px;
+  }
+
+.flex_box_hor  {
+    display: flex;
+    flex-direction: row;
+  }
+li{
+    line-height: 30px;
+}
+dd{
+  margin-top: 20px;
+}
